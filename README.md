@@ -6,10 +6,11 @@ Saya Muhammad Rafi Shidiq 2004222 mengerjakan LP7 DPBO untuk keberkahanNya maka 
 ## Screenshoots
 ![image](https://user-images.githubusercontent.com/96433779/163756548-27f4cfcc-a230-4e44-bb11-f828c9a552f8.png)
 
-![image](https://user-images.githubusercontent.com/96433779/163756583-2e7825b6-4209-4ade-90ac-7529dd900d3f.png)
-
-![image](https://user-images.githubusercontent.com/96433779/163756625-a5a94c1a-8269-431a-8bc7-675459ace2a4.png)
-
-![image](https://user-images.githubusercontent.com/96433779/163756667-d66efe84-4775-4bb3-b3ff-dd3b1f6401f3.png)
-
-![image](https://user-images.githubusercontent.com/96433779/163756720-f0c7c8a2-a19a-47cd-bf9e-82ddff3deb9f.png)
+### Detail Apartemen
+![image](https://user-images.githubusercontent.com/96433779/163756986-25bf97f5-37f2-4fd0-87b0-0ab028119e50.png)
+### Detail Rumah
+![image](https://user-images.githubusercontent.com/96433779/163757042-a2909b6a-b4b5-48ca-91c6-edc1dd386f6a.png)
+### Detail Indekos
+![image](https://user-images.githubusercontent.com/96433779/163757090-be6f17c7-2bbe-4862-bbdc-d9c67810a4a2.png)
+### Detail Rumah
+![image](https://user-images.githubusercontent.com/96433779/163757141-c4e86e53-c127-4940-9e79-e85cd48c46a8.png)
